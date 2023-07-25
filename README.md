@@ -1,0 +1,1 @@
+Arduino library for the MAX11643 ADC using SPI as the connection method and enabling full configuration support.
