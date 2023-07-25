@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX11643	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup 		        KEYWORD2
+reset 	            KEYWORD2
+triggerMeasurement  KEYWORD2
+getData	            KEYWORD2
+readChannel	        KEYWORD2
+transferMAX         KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX11643_DEBUG                  LITERAL1
+MAX11643_SCANMODE_0toN          LITERAL1
+MAX11643_SCANMODE_Nto8          LITERAL1
+MAX11643_SCANMODE_Nto16         LITERAL1
+MAX11643_SCANMODE_Navg          LITERAL1
+MAX11643_SCANMODE_Nonce         LITERAL1
+MAX11643_CLKMODE_INT_INT_CVST   LITERAL1
+MAX11643_CLKMODE_INT_EXT_CVST   LITERAL1
+MAX11643_CLKMODE_INT_INT_AIN    LITERAL1
+MAX11643_CLKMODE_EXT_EXT_AIN    LITERAL1
+MAX11643_REF_INT_DELAY          LITERAL1
+MAX11643_REF_EXT                LITERAL1
+MAX11643_REF_INT_FAST           LITERAL1
+MAX11643_AVG_COUNT_1            LITERAL1
+MAX11643_AVG_COUNT_4            LITERAL1
+MAX11643_AVG_COUNT_8            LITERAL1
+MAX11643_AVG_COUNT_16           LITERAL1
+MAX11643_AVG_COUNT_32           LITERAL1
+MAX11643_SCAN_COUNT_4           LITERAL1
+MAX11643_SCAN_COUNT_8           LITERAL1
+MAX11643_SCAN_COUNT_12          LITERAL1
+MAX11643_SCAN_COUNT_16          LITERAL1
+MAX11643_SPI_SPEED              LITERAL1
+MAX11643_SPI_BITORDER           LITERAL1
+MAX11643_SPI_MODE               LITERAL1
